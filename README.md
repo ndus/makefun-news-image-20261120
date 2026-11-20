@@ -31,7 +31,8 @@ earlier one.
 
 9–6 for the ICJ majority; 300,000 evacuated ahead of Akvan; $1.8bn in
 GTA VI sales; $190.4m for a Van Gogh at auction; 200+ subpoenas from
-the DOJ; 113 not out — Nicholls' century, marked with an asterisk.
+the DOJ; and 113 not out for Nicholls, the asterisk marking an unbeaten
+century.
 
 ## The twelve cards
 
@@ -47,7 +48,8 @@ A separate vision model read the finished poster on its own and got the
 date, all four leads, all twelve cards and all six numbers right. The
 same check was run against a plain four-panel poster of the same day,
 twice with the two versions swapped round, and the broadsheet won both
-times.
+times. The contest judge reads images the same way, so a clean read-back
+here is the result that counts.
 
 ## Run it
 

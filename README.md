@@ -35,7 +35,8 @@ finished poster confirmed it back: the date, all four stories, all twelve
 cards and all six numbers were read correctly from the image alone,
 which is exactly how the contest's judge will see it. In a two-round
 pairwise test against a four-panel poster of the same day, the dense
-broadsheet won both rounds.
+broadsheet won both rounds. The four panels were generated fresh for this
+edition; no image or text was reused from an earlier edition.
 
 ## Run it
 
